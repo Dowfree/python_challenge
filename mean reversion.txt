@@ -1,0 +1,11 @@
+Our models assume that all booths are identical. However, systems such as
+E-ZPass allow a driver to pay a toll electronically from an in-car device without
+stopping at a tollbooth. If all E-ZPass booths also double as regular telleroperated
+booths, much of our models remain the same, except that the average
+service rate might increase. The trouble comes when all the booths are not
+the same and drivers may need to change lanes upon entering the plaza. This
+directed lane changing was not implemented in any of the models presented
+here, but could easily become a part of the automata model. Exclusive E-ZPass
+booths also would drastically reduce the operating cost for the booth, since an
+operator's salarywould not need to be paid (from $16,000 to $180,000 annually)
+[Sullivan 1994].
